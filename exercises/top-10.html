@@ -1,23 +1,51 @@
 
 <!DOCTYPE html>
 <html>
+<body style="background-color: lightblue;">
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>Top 10</title>
     <link rel="icon" type="image/png" href="images/icon.png"/>
+    <style type="text/css">
+      h1 {  
+  font-family: Courier;
+  font-size: 20px;
+}  
+p, a, li, details, body {  
+  font-family: Courier;
+  font-size: 15px;
+}
+a:hover {
+  font-style:italic;
+  color: white;
+}
+
+a:active {
+  background-color: red;
+  color: white;
+}
+
+a:focus {
+  color:pink;
+}
+    </style>
   </head>
   <body>
-    <a href="../index.html">Back</a> 
+    <a href="../index02.html">Back</a> 
+
     <h1>&nbsp; &nbsp; My top 10</h1>
     <ol>
+      
       <!-- #1 -->
       <li>
-        I like grinding coffee beans every morning
+        My cat
+        <iframe src="cat.html" title="My cat">
+</iframe>
       </li><br>
       <!-- #2 -->
       <li>
-        <a href="https://www.are.na/yifan-wang-fvab5pvjec4/thomas-theodor-heine">I like Thomas Theodor Heine.</a>
+        COVER TO COVER (Michael <span style="color: white">Snow</span>)
       </li><br>
       <!-- #3 -->
       <li>
@@ -25,32 +53,52 @@
       </li><br>
       <!-- #4 -->
          <li>
-        My friend's cup, while she hated. <img src="shae's cup.jpg">
+        <em>grinding</em> coffee beans every morning
+          <details>
+  <summary>See tips</summary>
+  <p>3 tsp <span style="color:brown">coffee beans</span><br><br> 
+    8 oz <span style="color:blue">  water</span> </p>
+</details>
       </li><br>
       <!-- #5 -->
-         <li>
-        Seeing snow <img src="snow.jpg">
+        <li>
+        Louise Bourgeois peels a tangerine
+<iframe width="420" height="315" src="https://www.youtube.com/embed/M2mx1gZqh1E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
       </li><br>
        <!-- #6 -->
          <li>
-        Berries <img src="berry.jpg">
+          it's always sunny in Philadelphia
       </li><br>
       <!-- #7 -->
          <li>
-        Gingerrrrr <img src="ginger.jpg">
+          <a href="http://www.snackdata.com/">snack data</a>
       </li><br>
       <!-- #8 -->
          <li>
-        Sun Noodle Ramen <img src="ramen.jpg">
       </li><br>
       <!-- #9 -->
       <li>
-         <a href="https://www.are.na/yifan-wang-fvab5pvjec4/cig">cig posters</a> 
+        <span style="color: blue">watering</span> <span style="color: green">cactus</span>
       </li><br>
       <!-- #10 -->
-      <li>
-         watering cactus
+       <li>
+        stepping on <span style="color: white">snow</span> 
       </li><br>
+
+<button onclick="showContent()">Show hidden content</button>
+      <template>
+  <img src="IMG_5068.jpg" width="" height="">
+</template>
+
+<script>
+function showContent() {
+  var temp = document.getElementsByTagName("template")[0];
+  var clon = temp.content.cloneNode(true);
+  document.body.appendChild(clon);
+}
+</script>
+
 
 
     </ol>
