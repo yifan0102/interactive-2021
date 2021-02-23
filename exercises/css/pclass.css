@@ -1,0 +1,13 @@
+a:link {color:#cef2e0;}
+a:visited {color:#cef2e0;}
+a:hover {color:#7fffd4;}
+a:active {color:#cef2e0;}
+a:hover {
+background-color: white;
+font-style:italic;
+color: salmon;
+}
+a:active {
+  background-color: yellow;
+  color: salmon;
+}
