@@ -11,15 +11,15 @@ p, a {
   font-size: 12px;
 }
 
-a:link {color:yellow;}
+a:link {color:blue;}
 a:visited {color: yellow;}
-a:hover {color:#7fffd4;}
-a:active {color:#cef2e0;}
+a:hover {color:#blue;}
+a:active {color:#blue;}
 a:hover {
 font-style:italic;
 color: blue;
 }
 a:active {
   background-color: blue;
-  color: salmon;
+  color: blue;
 }
