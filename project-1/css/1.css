@@ -3,7 +3,7 @@ h1, p, video, div, a {
   font-size: 15px;
   margin-left: 100;
   margin-right: 30;
-  padding: 0px 400px 15px;
+  padding: 0px 200px 15px;
   /*border: dashed red;*/
 }  
 
@@ -11,7 +11,7 @@ p, a {
   font-size: 12px;
 }
 
-a:link {color:blue;}
+/*a:link {color:blue;}
 a:visited {color: blue;}
 a:hover {color:#blue;}
 a:active {color:#blue;}
@@ -22,4 +22,4 @@ color: blue;
 a:active {
   background-color: yellow;
   color: blue;
-}
+}*/
