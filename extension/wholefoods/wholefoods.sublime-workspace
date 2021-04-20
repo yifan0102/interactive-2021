@@ -1,0 +1,339 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fun",
+				"function"
+			],
+			[
+				"s",
+				"script"
+			],
+			[
+				"co",
+				"colors"
+			],
+			[
+				"ti",
+				"title\tTag"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"margin",
+				"margin\tproperty"
+			],
+			[
+				"pad",
+				"padding\tproperty"
+			],
+			[
+				"padd",
+				"padding-top\tproperty"
+			],
+			[
+				"pa",
+				"padding-left\tproperty"
+			],
+			[
+				"mar",
+				"margin-bottom\tproperty"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"padding",
+				"padding-left\tproperty"
+			],
+			[
+				"inlie",
+				"inline-block\tdisplay"
+			],
+			[
+				"inl",
+				"inline-flex\tdisplay"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"p",
+				"padding\tproperty"
+			],
+			[
+				"al",
+				"align-items\tproperty"
+			],
+			[
+				"hea",
+				"header\tTag"
+			],
+			[
+				"text",
+				"text-decoration-color\tproperty"
+			],
+			[
+				"border-a",
+				"border-spacing\tproperty"
+			],
+			[
+				"BACK",
+				"background-color\tproperty"
+			],
+			[
+				"bor",
+				"border\tproperty"
+			],
+			[
+				"background-c",
+				"background-color\tproperty"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"di",
+				"div\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 136.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/effy/Desktop/interactive-2021/extension/wholefoods/peach.js",
+		"/Users/effy/Desktop/interactive-2021/extension/imagefy/viewer.js",
+		"/Users/effy/Desktop/interactive-2021/extension/imagefy/viewer.html",
+		"/Users/effy/Desktop/interactive-2021/extension/imagefy/viewer.css",
+		"/Users/effy/Desktop/interactive-2021/extension/birds/content_scripts/choose_bird.js",
+		"/Users/effy/Desktop/interactive-2021/extension/birds/content_scripts/choose_bird.html",
+		"/Users/effy/Desktop/interactive-2021/extension/birds/manifest.json",
+		"/Users/effy/Desktop/interactive-2021/extension/birds/content_scripts/choose_bird.css",
+		"/Users/effy/Desktop/interactive-2021/extension/birds/content_scripts/birds.js",
+		"/Users/effy/Desktop/interactive-2021/extension/seriously.blur.js",
+		"/Users/effy/Desktop/interactive-2021/extension/blurry/styles.css",
+		"/Users/effy/Desktop/interactive-2021/extension/imagefy/content.js",
+		"/Users/effy/Desktop/interactive-2021/extension/imagefy/choose_file.js",
+		"/Users/effy/Desktop/interactive-2021/extension/imagefy/sidebar.css",
+		"/Users/effy/Desktop/interactive-2021/extension/imagefy/sidebar.html",
+		"/Users/effy/Desktop/interactive-2021/extension/imagefy/manifest.json",
+		"/Users/effy/Desktop/interactive-2021/extension/seriously.blur/manifest.json",
+		"/Users/effy/Desktop/interactive-2021/extension/recursivebutton.jsx",
+		"/Users/effy/Desktop/interactive-2021/extension/winnie/blurry/manifest.json",
+		"/Users/effy/Desktop/interactive-2021/extension/winnie/manifest.json",
+		"/Users/effy/Desktop/interactive-2021/extension/manifest.json",
+		"/Users/effy/Desktop/interactive-2021/extension/manifestt1.json",
+		"/Users/effy/Desktop/interactive-2021/java.js",
+		"/Users/effy/Desktop/interactive-2021/exercises/draw.html",
+		"/Users/effy/Desktop/interactive-2021/exercises/cat.html",
+		"/Users/effy/Desktop/interactive-2021/project-1/css/level2.css",
+		"/Users/effy/Desktop/interactive-2021/exercises/top-10.html",
+		"/Users/effy/Desktop/interactive-2021/exercises/calendar/style.css",
+		"/Users/effy/Desktop/interactive-2021/exercises/calendar/calendar.html",
+		"/Users/effy/Desktop/interactive-2021/index-.html",
+		"/Users/effy/Desktop/interactive-2021/index02.html",
+		"/Users/effy/Desktop/interactive-2021/untitled.html",
+		"/Users/effy/Desktop/interactive-2021/exercises/css/style.css",
+		"/Users/effy/Desktop/interactive-2021/project-1/tour-v3.html",
+		"/Users/effy/Desktop/interactive-2021/exercises/website as room.html",
+		"/Users/effy/Desktop/interactive-2021/project-1/usembassy.html",
+		"/Users/effy/Desktop/interactive-2021/project-1/visa.html",
+		"/Users/effy/Desktop/interactive-2021/project-1/tuktuk.html",
+		"/Users/effy/Desktop/interactive-2021/project-1/tuktuk2.html",
+		"/Users/effy/Desktop/interactive-2021/project-1/traffic light.html",
+		"/Users/effy/Desktop/interactive-2021/project-1/test.html",
+		"/Users/effy/Desktop/interactive-2021/project-1/test2.html",
+		"/Users/effy/Desktop/interactive-2021/project-1/waterlily.html",
+		"/Users/effy/Desktop/interactive-2021/exercises/calendar.html",
+		"/Users/effy/Desktop/interactive-2021/project-1/css/1.css",
+		"/Users/effy/Desktop/interactive-2021/exercises/calendar",
+		"/Users/effy/Desktop/interactive-2021/project-1/room.html",
+		"/Users/effy/Desktop/interactive-2021/project-1/building.html",
+		"/Users/effy/Desktop/interactive-2021/project-1/printingshop.html",
+		"/Users/effy/Desktop/interactive-2021/project-1/glass.html",
+		"/Users/effy/Desktop/interactive-2021/project-1/pool.html",
+		"/Users/effy/Desktop/interactive-2021/project-1/sunset.html",
+		"/Users/effy/Desktop/interactive-2021/exercises/untitled.html",
+		"/Users/effy/Desktop/interactive-2021/index.html",
+		"/Users/effy/Desktop/interactive-2021/exercises/website as.html",
+		"/Users/effy/Desktop/interactive-2021/project-1/css/1",
+		"/Users/effy/Desktop/interactive-2021/project-1/css/pclass.css",
+		"/Users/effy/Desktop/interactive-2021/project-1/0911.html",
+		"/Users/effy/Desktop/interactive-2021/project-1/project1.html",
+		"/Users/effy/Desktop/interactive-2021/project1/0911.html",
+		"/Users/effy/Documents/GitHub/interactive-2021/project1/0911.html",
+		"/Users/effy/Documents/GitHub/interactive-2021/project1.html",
+		"/Users/effy/Documents/GitHub/interactive-2021/project1/animal.html",
+		"/Users/effy/Desktop/view-source_https___rosamcelheny.com.html",
+		"/Users/effy/Documents/GitHub/interactive-2021/index.html",
+		"/Users/effy/Documents/GitHub/interactive-2021/project1/food.html",
+		"/Users/effy/Documents/GitHub/interactive-2021/project1/signs.html",
+		"/Users/effy/Documents/GitHub/interactive-2021/project1/project1.html",
+		"/Users/effy/Documents/GitHub/interactive-2021/project1/0910.html",
+		"/Users/effy/Documents/GitHub/interactive-2021/exercises/top-10.html",
+		"/Users/effy/Documents/GitHub/interactive-2021/starter_page/index.html"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "wholefoods.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

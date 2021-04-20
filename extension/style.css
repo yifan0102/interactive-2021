@@ -1,0 +1,49 @@
+.text {
+  max-width:500px;
+  margin: 0 auto;
+}
+.container {
+  position: relative;
+  max-width: 100%;
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+.image {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  width: 100%;
+  opacity: 0;
+  transition: .3s ease;
+  background-color: ;
+}
+
+.container:hover .overlay {
+  opacity: 1;
+}
+
+
+.fa-user:hover {
+  color: #eee;
+}
+
+h2, p, video, img, a, body {  
+font-family: Georgia, serif;
+font-size: 14px;
+padding: 5px 2px 0px 5px;
+font-kerning: none;
+} 
+
+p {
+  font-size: 1em;
+}
